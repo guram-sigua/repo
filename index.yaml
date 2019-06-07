@@ -1,13 +1,23 @@
 apiVersion: v1
 entries:
+  dashboard:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-07T21:42:04.479616+03:00"
+    description: Dashboard chart
+    digest: 50c4614aad33319360893c15eb1c7297403f6f532e252e8a07a10a965b15ab68
+    name: dashboard
+    urls:
+    - https://guram-sigua.github.io/repo/dashboard-1.tgz
+    version: "1"
   verticauploader:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2019-06-07T20:47:02.568344+03:00"
+    created: "2019-06-07T21:42:04.481252+03:00"
     description: VerticaUploader verticauploader
     digest: 71cd49f3edb436c1e40a641c72ea25f375536b3889a803757c6f1686e271c533
     name: verticauploader
     urls:
     - https://guram-sigua.github.io/repo/verticauploader-0.0.5.tgz
     version: 0.0.5
-generated: "2019-06-07T20:47:02.567162+03:00"
+generated: "2019-06-07T21:42:04.478502+03:00"
