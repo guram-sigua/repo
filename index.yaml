@@ -3,11 +3,11 @@ entries:
   verticauploader:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2019-06-07T16:21:49.962821+03:00"
+    created: "2019-06-07T18:08:58.312816+03:00"
     description: VerticaUploader verticauploader
-    digest: 202467737a23149711716c679f328a03f4206916f7ae4ae51883183626862b34
+    digest: 6ae9842b9226ca29cefc8cdff7e2408edad276dd921ff326f185fa1336b64d50
     name: verticauploader
     urls:
     - https://guram-sigua.github.io/repo/verticauploader-0.0.1.tgz
     version: 0.0.1
-generated: "2019-06-07T16:21:49.960455+03:00"
+generated: "2019-06-07T18:08:58.312232+03:00"
